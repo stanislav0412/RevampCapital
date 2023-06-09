@@ -29,7 +29,7 @@
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #DC8250;
-  --yellow: #FFDB43;
+  --yellow: #00FFFF;
   --green: #006E6E;
   --teal: #20c997;
   --cyan: #17a2b8;
@@ -40,7 +40,7 @@
   --secondary: #6c757d;
   --success: #006E6E;
   --info: #17a2b8;
-  --warning: #FFDB43;
+  --warning: #00FFFF;
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
@@ -52,7 +52,7 @@
   --gray-dd: #DDDDDD;
   --gray-ea: #EAEAEA;
   --gray-f2: #F2F2F2;
-  --yellow: #FFDB43;
+  --yellow: #00FFFF;
   --green: #006E6E;
   --orange: #DC8250;
   --blue: #3C46A0;
@@ -4210,7 +4210,7 @@ body.compensate-for-scrollbar {
   .wp-front button.bg-gray-f2:focus {
     background-color: #d9d9d9 !important; }
   .wp-front .bg-yellow {
-    background-color: #FFDB43 !important; }
+    background-color: #00FFFF !important; }
   .wp-front a.bg-yellow:hover, .wp-front a.bg-yellow:focus,
   .wp-front button.bg-yellow:hover,
   .wp-front button.bg-yellow:focus {
@@ -4274,7 +4274,7 @@ body.compensate-for-scrollbar {
   .wp-front .border-gray-f2 {
     border-color: #F2F2F2 !important; }
   .wp-front .border-yellow {
-    border-color: #FFDB43 !important; }
+    border-color: #00FFFF !important; }
   .wp-front .border-green {
     border-color: #006E6E !important; }
   .wp-front .border-orange {
@@ -11784,7 +11784,7 @@ body.compensate-for-scrollbar {
   .wp-front a.text-gray-f2:hover, .wp-front a.text-gray-f2:focus {
     color: #cccccc !important; }
   .wp-front .text-yellow {
-    color: #FFDB43 !important; }
+    color: #00FFFF !important; }
   .wp-front a.text-yellow:hover, .wp-front a.text-yellow:focus {
     color: #f6c600 !important; }
   .wp-front .text-green {
@@ -12217,7 +12217,7 @@ body.compensate-for-scrollbar {
       background: #000;
       border-color: #999999;
       color: #fff;
-      caret-color: #FFDB43; }
+      caret-color: #00FFFF; }
       .wp-front ._form ._form-content ._form_element ._field-wrapper input[type="text"]:focus, .wp-front ._form ._form-content ._form_element ._field-wrapper input[type="email"]:focus, .wp-front ._form ._form-content ._form_element ._field-wrapper input[type="number"]:focus, .wp-front ._form ._form-content ._form_element ._field-wrapper textarea:focus, .wp-front ._form ._form-content ._form_element ._field-wrapper select:focus {
         border-color: #fff;
         border-radius: 0;
@@ -12272,8 +12272,8 @@ body.compensate-for-scrollbar {
       color: #000;
       border: 1px solid #fff; }
       .wp-front ._form ._form-content ._button-wrapper button:hover {
-        background: #FFDB43;
-        border-color: #FFDB43; }
+        background: #00FFFF;
+        border-color: #00FFFF; }
   .wp-front ._form ._form-thank-you {
     font-size: 1.5rem; }
   .wp-front.signup ._form ._form-content ._form_element {
@@ -12311,7 +12311,7 @@ body.compensate-for-scrollbar {
       background: #fff;
       border-color: #999999;
       color: #000;
-      caret-color: #FFDB43; }
+      caret-color: #00FFFF; }
       .wp-front.signup ._form ._form-content ._form_element ._field-wrapper input[type="text"]:focus, .wp-front.signup ._form ._form-content ._form_element ._field-wrapper input[type="email"]:focus, .wp-front.signup ._form ._form-content ._form_element ._field-wrapper input[type="number"]:focus, .wp-front.signup ._form ._form-content ._form_element ._field-wrapper textarea:focus, .wp-front.signup ._form ._form-content ._form_element ._field-wrapper select:focus {
         border-color: #000;
         border-radius: 0;
@@ -12352,9 +12352,9 @@ body.compensate-for-scrollbar {
       border-radius: calc(36px*var(--scale));
       font-size: 1rem;
       font-weight: 700;
-      background: #FFDB43;
+      background: #00FFFF;
       color: #000;
-      border: 1px solid #FFDB43; }
+      border: 1px solid #00FFFF; }
       .wp-front.signup ._form ._form-content ._button-wrapper button:hover {
         background: #000;
         border-color: #000;
@@ -12900,7 +12900,7 @@ body.compensate-for-scrollbar {
                 padding: calc(30px*var(--scale)) calc(50px*var(--scale));
                 min-width: calc(290px*var(--scale));
                 list-style: none;
-                background: #FFDB43;
+                background: #00FFFF;
                 z-index: 9999999; }
                 @media (max-width: 1199.98px) {
                   .wp-front .app-header__top--right .menu-header-menu-container .menu > li.menu-item-has-children .sub-menu {
@@ -13031,12 +13031,12 @@ body.compensate-for-scrollbar {
                   padding-left: calc(30px*var(--scale));
                   padding-right: calc(30px*var(--scale));
                   margin-top: 10px;
-                  background: #FFDB43;
-                  border-color: #FFDB43;
+                  background: #00FFFF;
+                  border-color: #00FFFF;
                   color: #000; } }
               .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:hover, .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:active, .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:focus {
-                border-color: #FFDB43;
-                background: #FFDB43;
+                border-color: #00FFFF;
+                background: #00FFFF;
                 color: #000; }
                 @media (max-width: 991.98px) {
                   .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:hover, .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:active, .wp-front .app-header__top--right .menu-header-menu-container .menu > li.button a:focus {
@@ -13570,7 +13570,7 @@ body.compensate-for-scrollbar {
         .wp-front .blog-pagination .pagination .nav-links .page-numbers.prev i {
           font-size: calc(24px*var(--scale)); }
       .wp-front .blog-pagination .pagination .nav-links .page-numbers.current {
-        background: #FFDB43; }
+        background: #00FFFF; }
       .wp-front .blog-pagination .pagination .nav-links .page-numbers.dots, .wp-front .blog-pagination .pagination .nav-links .page-numbers.extend {
         background: transparent; }
       .wp-front .blog-pagination .pagination .nav-links .page-numbers.next {
@@ -13671,8 +13671,8 @@ body.compensate-for-scrollbar {
             background: #000;
             color: #fff; }
           .wp-front .post-cta.newsletter .container .form-wrapper .input .x_button:active, .wp-front .post-cta.newsletter .container .form-wrapper .input .x_button:focus {
-            border-color: #FFDB43;
-            background: #FFDB43;
+            border-color: #00FFFF;
+            background: #00FFFF;
             color: #000; }
         .wp-front .post-cta.newsletter .container .form-wrapper .input form ._form-content ._form_element {
           margin: 0 !important; }
@@ -13736,8 +13736,8 @@ body.compensate-for-scrollbar {
           font-size: 1.5rem;
           height: calc(48px*var(--scale));
           width: calc(48px*var(--scale));
-          background: #FFDB43;
-          border: 2px solid #FFDB43;
+          background: #00FFFF;
+          border: 2px solid #00FFFF;
           border-radius: 50%; }
       .wp-front .post-cta.newsletter .container .form-wrapper.confirmed .input, .wp-front .post-cta.newsletter .container .form-wrapper.confirmed .help {
         display: none; }
@@ -13961,9 +13961,9 @@ body.compensate-for-scrollbar {
             -webkit-box-shadow: none !important;
                     box-shadow: none !important;
             text-decoration: none;
-            background: #FFDB43 !important;
+            background: #00FFFF !important;
             color: #000 !important;
-            border-color: #FFDB43 !important; }
+            border-color: #00FFFF !important; }
   .wp-front .post-share {
     margin: calc(60px*var(--scale)) 0;
     display: -webkit-box;
@@ -14142,9 +14142,9 @@ body.compensate-for-scrollbar {
       -webkit-box-shadow: none !important;
               box-shadow: none !important;
       text-decoration: none;
-      background: #FFDB43 !important;
+      background: #00FFFF !important;
       color: #000 !important;
-      border-color: #FFDB43 !important; }
+      border-color: #00FFFF !important; }
     .wp-front .btn i, .wp-front .wp-block-button__link i {
       padding-left: 0.875em;
       font-size: 1rem; }
@@ -14232,7 +14232,7 @@ body.compensate-for-scrollbar {
       background: transparent;
       color: inherit; }
     .wp-front .btn.has-yellow-background-color, .wp-front .wp-block-button__link.has-yellow-background-color {
-      border-color: #FFDB43; }
+      border-color: #00FFFF; }
       .wp-front .btn.has-yellow-background-color:hover, .wp-front .btn.has-yellow-background-color:focus, .wp-front .btn.has-yellow-background-color:active, .wp-front .wp-block-button__link.has-yellow-background-color:hover, .wp-front .wp-block-button__link.has-yellow-background-color:focus, .wp-front .wp-block-button__link.has-yellow-background-color:active {
         background: #000 !important;
         color: #fff !important;
@@ -15311,7 +15311,7 @@ body.compensate-for-scrollbar {
   .wp-front .has-gray-f2-color {
     color: #F2F2F2; }
   .wp-front .has-yellow-color {
-    color: #FFDB43; }
+    color: #00FFFF; }
   .wp-front .has-green-color {
     color: #006E6E; }
   .wp-front .has-orage-color {
@@ -15338,7 +15338,7 @@ body.compensate-for-scrollbar {
   .wp-front .has-gray-f2-background-color {
     background-color: #F2F2F2; }
   .wp-front .has-yellow-background-color {
-    background-color: #FFDB43; }
+    background-color: #00FFFF; }
   .wp-front .has-green-background-color {
     background-color: #006E6E; }
   .wp-front .has-orange-background-color {
@@ -15394,10 +15394,10 @@ body.compensate-for-scrollbar {
       left: 0;
       right: calc(40px*var(--scale));
       bottom: calc(90px*var(--scale));
-      background: #FFDB43;
+      background: #00FFFF;
       z-index: 1; }
     .wp-front .wp-block-image.is-style-immo-big-left-yellow:after {
-      background: #FFDB43;
+      background: #00FFFF;
       content: "";
       position: absolute;
       bottom: calc(50px*var(--scale));
@@ -15428,7 +15428,7 @@ body.compensate-for-scrollbar {
       left: 0;
       right: calc(20px*var(--scale));
       bottom: calc(20px*var(--scale));
-      background: #FFDB43;
+      background: #00FFFF;
       z-index: 1; }
     .wp-front .wp-block-image.is-style-immo-small-left-yellow img {
       position: relative;
