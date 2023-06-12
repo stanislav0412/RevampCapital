@@ -4216,7 +4216,7 @@ body.compensate-for-scrollbar {
   .wp-front button.bg-yellow:focus {
     background-color: #ffd110 !important; }
   .wp-front .bg-green {
-    background-color: #006E6E !important; }
+    background-color: #000000 !important; }
   .wp-front a.bg-green:hover, .wp-front a.bg-green:focus,
   .wp-front button.bg-green:hover,
   .wp-front button.bg-green:focus {
