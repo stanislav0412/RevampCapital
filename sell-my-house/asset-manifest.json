@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sell-my-house/static/css/main.859920d0.css",
-    "main.js": "/sell-my-house/static/js/main.1f7e9179.js",
+    "main.js": "/sell-my-house/static/js/main.19f625d0.js",
     "static/js/787.0ee26938.chunk.js": "/sell-my-house/static/js/787.0ee26938.chunk.js",
     "index.html": "/sell-my-house/index.html",
     "main.859920d0.css.map": "/sell-my-house/static/css/main.859920d0.css.map",
-    "main.1f7e9179.js.map": "/sell-my-house/static/js/main.1f7e9179.js.map",
+    "main.19f625d0.js.map": "/sell-my-house/static/js/main.19f625d0.js.map",
     "787.0ee26938.chunk.js.map": "/sell-my-house/static/js/787.0ee26938.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.859920d0.css",
-    "static/js/main.1f7e9179.js"
+    "static/js/main.19f625d0.js"
   ]
 }
